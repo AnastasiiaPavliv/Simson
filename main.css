@@ -1,0 +1,19 @@
+h1{
+    background:lightblue;
+    text-align: center;
+    font-family:"Bell MT",sans-serif;
+
+}
+p{
+    background: yellow;
+}
+h2{
+    background: dodgerblue;
+    font-family: Arial, sans-serif;
+}
+ul{
+    background: cornflowerblue;
+}
+img{
+    align-content: center;
+}
